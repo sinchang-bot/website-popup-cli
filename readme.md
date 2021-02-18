@@ -2,7 +2,7 @@
 
 > Open a website in a popup *(macOS)*
 
-<img src="screenshot.png" width="759">
+<img src="https://raw.githubusercontent.com/sindresorhus/website-popup/main/screenshot.png" width="759">
 
 ## Install
 
